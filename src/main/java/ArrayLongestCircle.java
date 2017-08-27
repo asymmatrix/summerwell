@@ -3,7 +3,7 @@ import java.util.Map;
 
 
 /**
- * Array has N integers，range[0...N-1]。Set S[k], 0 <= K < N as S[K] = {A[K], A[A[K]], A[A[A[K]]],....},
+ * Array has N integers, range[0...N-1]. Set S[k], 0 <= K < N as S[K] = {A[K], A[A[K]], A[A[A[K]]],....},
  * write a function returns the size of the largest set S[K] for this array. return 0 if empty.
  * ex:
  * A = [5, 4, 0, 3, 1, 6, 2]
